@@ -1,6 +1,6 @@
 ## Laravel TODO
 
-**LLaravel TODO System** is a simple todo list system.
+**Laravel TODO System** is a simple todo list system.
 
 ### Installation
 01. `git clone https://github.com/ambikabs29/laravel_todo.git`
