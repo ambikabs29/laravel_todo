@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_alerts.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038888429027" remote="132072150360000000" Dst="0" />
+<file name="_badges.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038888835255" remote="132072150360000000" Dst="0" />
+<file name="_breadcrumbs.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038889238578" remote="132072150360000000" Dst="0" />
+<file name="_button-groups.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038889648629" remote="132072150360000000" Dst="0" />
+<file name="_buttons.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038890155670" remote="132072150360000000" Dst="0" />
+<file name="_carousel.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038890590719" remote="132072150360000000" Dst="0" />
+<file name="_close.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038891001219" remote="132072150360000000" Dst="0" />
+<file name="_code.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038891373625" remote="132072150360000000" Dst="0" />
+<file name="_component-animations.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038891883423" remote="132072150360000000" Dst="0" />
+<file name="_dropdowns.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038892286315" remote="132072150360000000" Dst="0" />
+<file name="_forms.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038892696999" remote="132072150360000000" Dst="0" />
+<file name="_glyphicons.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038893202044" remote="132072150360000000" Dst="0" />
+<file name="_grid.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038893607652" remote="132072150360000000" Dst="0" />
+<file name="_input-groups.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038894016482" remote="132072150360000000" Dst="0" />
+<file name="_jumbotron.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038894422682" remote="132072150360000000" Dst="0" />
+<file name="_labels.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038894828853" remote="132072150360000000" Dst="0" />
+<file name="_list-group.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038895232730" remote="132072150370000000" Dst="0" />
+<file name="_media.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038895642359" remote="132072150370000000" Dst="0" />
+<file name="_mixins.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038896072479" remote="132072150370000000" Dst="0" />
+<file name="_modals.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038896452902" remote="132072150370000000" Dst="0" />
+<file name="_navbar.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038896862039" remote="132072150370000000" Dst="0" />
+<file name="_navs.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038897264992" remote="132072150370000000" Dst="0" />
+<file name="_normalize.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038897775504" remote="132072150370000000" Dst="0" />
+<file name="_pager.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038898180702" remote="132072150370000000" Dst="0" />
+<file name="_pagination.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038898587159" remote="132072150370000000" Dst="0" />
+<file name="_panels.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038898996268" remote="132072150370000000" Dst="0" />
+<file name="_popovers.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038899299482" remote="132072150370000000" Dst="0" />
+<file name="_print.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038899752449" remote="132072150370000000" Dst="0" />
+<file name="_progress-bars.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038900213609" remote="132072150370000000" Dst="0" />
+<file name="_responsive-embed.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038900635362" remote="132072150370000000" Dst="0" />
+<file name="_responsive-utilities.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038901053579" remote="132072150370000000" Dst="0" />
+<file name="_scaffolding.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038901534713" remote="132072150370000000" Dst="0" />
+<file name="_tables.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038902041591" remote="132072150370000000" Dst="0" />
+<file name="_theme.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038902651952" remote="132072150370000000" Dst="0" />
+<file name="_thumbnails.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038903057129" remote="132072150370000000" Dst="0" />
+<file name="_tooltip.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038903464820" remote="132072150370000000" Dst="0" />
+<file name="_type.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038903966224" remote="132072150370000000" Dst="0" />
+<file name="_utilities.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038904380053" remote="132072150370000000" Dst="0" />
+<file name="_variables.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038904783736" remote="132072150370000000" Dst="0" />
+<file name="_wells.scss" server="mission1.synology.me//homes/방지희/www/template/" local="132072038905197000" remote="132072150370000000" Dst="0" />
+</dwsync>
