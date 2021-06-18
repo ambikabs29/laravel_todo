@@ -1,6 +1,6 @@
 ## Laravel TODO
 
-url : https://github.com/ambikabs29/laravel_todo.git
+url : https://still-oasis-08298.herokuapp.com/
 
 **Laravel TODO System** is a simple todo list system.
 
